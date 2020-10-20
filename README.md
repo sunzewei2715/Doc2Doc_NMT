@@ -20,9 +20,9 @@ It is equivalent to
 If you use our data or evaluation scripts, please cite:
 
 	@article{sun2020document,
-		title={Capturing Longer Context for Document-level Neural Machine Translation: A Multi-resolutional Approach},
-		author={Zewei Sun, Mingxuan Wang, Hao Zhou, Chengqi Zhao, Shujian Huang, Jiajun Chen, Lei Li},
-		journal={arXiv},
-		year={2020},
-		volume={abs/2010.08961}
+	  title={Capturing Longer Context for Document-level Neural Machine Translation: A Multi-resolutional Approach},
+      author={Zewei Sun, Mingxuan Wang, Hao Zhou, Chengqi Zhao, Shujian Huang, Jiajun Chen, Lei Li},
+	  journal={arXiv},
+	  year={2020},
+	  volume={abs/2010.08961}
 	}
