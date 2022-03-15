@@ -2,9 +2,11 @@
 The repository for the paper: [Rethinking Document-level Neural Machine Translation](https://arxiv.org/abs/2010.08961)
 (ACL-2022: Findings)
 
-Other previously used title: 
-* Capturing Longer Context for Document-level Neural Machine Translation: A Multi-resolutional Approach)
-* An Empirical Study of Document-to-document Neural Machine Translation
+Other previously used titles: 
+
+    - Capturing Longer Context for Document-level Neural Machine Translation: A Multi-resolutional Approach)
+
+    - An Empirical Study of Document-to-document Neural Machine Translation
 
 ### Training sets
 The training sets can be downloaded from [here](https://drive.google.com/drive/folders/1cmYG2960L1dfttKivl7ZyXY3N9kdzyFQ?usp=sharing).
