@@ -28,7 +28,7 @@ If you use our data or evaluation scripts, please cite:
 
 	@inproceedings{sun2020rethinking,
 	  title={Rethinking Document-level Neural Machine Translation},
-      author={Zewei Sun, Mingxuan Wang, Hao Zhou, Chengqi Zhao, Shujian Huang, Jiajun Chen, Lei Li},
+      author={Zewei Sun and Mingxuan Wang and Hao Zhou and Chengqi Zhao and Shujian Huang and Jiajun Chen and Lei Li},
 	  booktitle={Findings of the Association for Computational Linguistics: ACL 2022},
 	  year={2022},
 	}
